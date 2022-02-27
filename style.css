@@ -12,7 +12,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(to bottom, rgb(209, 245, 124), rgb(136, 136, 136));
+  background: linear-gradient(to bottom, rgb(209, 245, 124), rgb(171, 202, 202));
 }
 ::selection{
   color: #fff;
@@ -98,7 +98,7 @@ body{
   font-size: 16px;
   cursor: pointer;
   border-radius: 5px;
-  background: rgb(130, 153, 77);
+  background: rgb(125, 156, 52);
   transition: transform 0.3s ease;
 }
 .content button:active{
