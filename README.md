@@ -1,2 +1,6 @@
 # Typing_Speed-for-Web
-Código que realiza um teste de velocidade de escrita, através de textos randômicos utilizando HTML, CSS e JavaScript. 
+Código que realiza um teste de velocidade de escrita através de textos randômicos. Feito com a Tríade Web (HTML, CSS e JavaScript). 
+
+![Screenshot](screenshot.png)
+
+Este código foi feito em 2022, em um estudo da programação web.
