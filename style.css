@@ -1,3 +1,4 @@
+/* Import Google Font - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 *{
   margin: 0;
@@ -11,7 +12,9 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(to bottom, rgb(209, 245, 124), rgb(171, 202, 202));
+  background: #DCE35B; 
+  background: -webkit-linear-gradient(to right, #45B649, #DCE35B); 
+  background: linear-gradient(to right, #45B649, #DCE35B); 
 }
 ::selection{
   color: #fff;
@@ -97,7 +100,7 @@ body{
   font-size: 16px;
   cursor: pointer;
   border-radius: 5px;
-  background: rgb(125, 156, 52);
+  background: #45B649;
   transition: transform 0.3s ease;
 }
 .content button:active{
